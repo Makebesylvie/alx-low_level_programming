@@ -1,1 +1,1 @@
-The instructions of this projects
+Instruction for the project
